@@ -43,6 +43,8 @@ barchartGC(~infected + treatment,data=drugies, type="percent")
 
 ```
 
+Almost 80% of the people who reported to have aids have taken a placebo not the real drug. That shows that the drug seems to be working in preventing aids 
+
 
 
 ### Numerical Descriptive Results
